@@ -116,9 +116,9 @@
             this.btnStart.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnStart.Location = new System.Drawing.Point(72, 229);
             this.btnStart.Name = "btnStart";
-            this.btnStart.Size = new System.Drawing.Size(100, 40);
+            this.btnStart.Size = new System.Drawing.Size(104, 40);
             this.btnStart.TabIndex = 4;
-            this.btnStart.Text = "Start";
+            this.btnStart.Text = "Iniciar";
             this.btnStart.UseVisualStyleBackColor = true;
             this.btnStart.Click += new System.EventHandler(this.btnStart_Click);
             // 
@@ -127,9 +127,9 @@
             this.btnStop.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnStop.Location = new System.Drawing.Point(222, 229);
             this.btnStop.Name = "btnStop";
-            this.btnStop.Size = new System.Drawing.Size(100, 40);
+            this.btnStop.Size = new System.Drawing.Size(104, 40);
             this.btnStop.TabIndex = 5;
-            this.btnStop.Text = "Stop";
+            this.btnStop.Text = "Parar";
             this.btnStop.UseVisualStyleBackColor = true;
             this.btnStop.Click += new System.EventHandler(this.btnStop_Click);
             // 
@@ -142,9 +142,9 @@
             this.btnLimpar.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnLimpar.Location = new System.Drawing.Point(370, 229);
             this.btnLimpar.Name = "btnLimpar";
-            this.btnLimpar.Size = new System.Drawing.Size(100, 40);
+            this.btnLimpar.Size = new System.Drawing.Size(104, 40);
             this.btnLimpar.TabIndex = 6;
-            this.btnLimpar.Text = "Clear";
+            this.btnLimpar.Text = "Limpar";
             this.btnLimpar.UseVisualStyleBackColor = true;
             this.btnLimpar.Click += new System.EventHandler(this.btnLimpar_Click);
             // 
